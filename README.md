@@ -1,10 +1,12 @@
 # MuseAI Android Auto
 
-<p align="center">
-  <img width="400" height="225" alt="Android Auto GIF, smaller"
-       src="https://github.com/user-attachments/assets/815aab22-7c3b-42a4-aceb-97cdd017820a" />
-</p>
-'
+<video width="400" height="225" autoplay loop muted playsinline
+       poster="first-frame.png"
+       style="display: block; margin: 0 auto;">
+  <source src="android-auto.webm" type="video/webm">
+  <source src="android-auto.mp4" type="video/mp4">
+</video>
+
 A static, Pages-ready showcase and support hub for an Android Auto-focused MuseAI starter scaffold.
 
 ## Why this exists
