@@ -1,5 +1,7 @@
 # MuseAI Android Auto
 
+https://github.com/user-attachments/assets/8fb23ff8-6434-4682-87bb-e8a3da2336b2
+
 A static, Pages-ready showcase and support hub for an Android Auto-focused MuseAI starter scaffold.
 
 ## Why this exists
