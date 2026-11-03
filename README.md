@@ -1,6 +1,6 @@
 # MuseAI Android Auto
 
-https://github.com/user-attachments/assets/8fb23ff8-6434-4682-87bb-e8a3da2336b2
+<img width="400" height="225" alt="Android Auto GIF, smaller" src="https://github.com/user-attachments/assets/815aab22-7c3b-42a4-aceb-97cdd017820a" />
 
 A static, Pages-ready showcase and support hub for an Android Auto-focused MuseAI starter scaffold.
 
